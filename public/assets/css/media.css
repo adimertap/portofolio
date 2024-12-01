@@ -226,7 +226,7 @@
         width: 40em;
         z-index: -1;
         height: 126%;
-        right: -10.9em;
+        right: 0;
         position: absolute;
     }
     .hero .inner-content.bottom {
