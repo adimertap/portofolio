@@ -199,7 +199,7 @@
         margin-bottom: 60px;
         display: inline-flex;
         margin-left: 0px;
-        gap: 50px;
+        gap: 10px;
     }
     .social-wrapper .icon {
         margin: 0 10px;
@@ -412,10 +412,10 @@
         justify-content: center;
     }
     .my-project-bottom .card p {
-        font-size: 17px;
+        font-size: 16px;
     }
     .my-project-bottom .card-heading span {
-        font-size: 20px;
+        font-size: 18px;
     }
     .my-project-bottom .card .projects ul li a {
         font-size: 17px;
@@ -426,14 +426,14 @@
     .my-project {
         padding-top: 100px;
         padding-bottom: 10px;
-        padding: 150px 40px 80px 40px;
+        padding: 120px 40px 80px 40px;
 
     }
     .my-project-top {
         padding-left: 20px;
         padding-right: 20px;
         text-align: center;
-        margin-bottom: 40px;
+        margin-bottom: 60px;
     }
     /* JOURNEY */
     .journey {
@@ -541,6 +541,7 @@
     .about-text_2 {
         max-width: 100%;
         text-align: center;
+        margin-bottom: 110px;
     }
 
     .testimonial-container_2 {
@@ -564,9 +565,12 @@
     }
 
     .top-left-image-service {
-        top: 690px;  /* Adjust based on the desired placement */
-        left: 330px;
+        top: 990px;  /* Adjust based on the desired placement */
+        left: 100px;
         width: 100px;  /* Set width as needed */
+    }
+    .learn-more-link_2{
+        margin-top: 0;
     }
 
     .testimonial-quote_2{
@@ -581,12 +585,12 @@
         display: none;
     }
     .nav-links {
-        margin-left: 50px;
-        gap: 40px;
+        margin-left: 20px;
+        gap: 15px;
     }
 
     .nav-links li a {
-        font-size: 1.1rem;
+        font-size: 1rem;
     }
 
     .flip-card-back{
@@ -598,8 +602,15 @@
         margin-bottom: 100px;
     }
 
+    .my-project-h2-p{
+        font-size: 16px;
+        margin-bottom: 40px;
+    }
+    .contact .mail{
+        font-size: 16px;
+    }
     .header_3 i{
-        font-size: 18px;
+        font-size: 16px;
         line-height: 2;
     }
     .top-right-image {
@@ -763,6 +774,7 @@
     .my-project-top p {
         font-size: 18px;
         line-height: 28px;
+        margin-bottom: 20px;
     }
     .my-project-bottom {
         justify-content: space-around;
@@ -931,7 +943,7 @@
         padding-left: 100px;
         padding-right: 100px;
         text-align: center;
-        margin-bottom: 40px;
+        margin-bottom: 60px;
     }
     .my-project-top h4 {
         font-size: 32px;
