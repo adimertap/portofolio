@@ -61,4 +61,10 @@ class ProjectBootcamp extends Controller
     {
         return view('project.iceducation.iceducation');
     }
+
+    public function tobacco()
+    {
+        return view('project.tobacco.tobacco');
+
+    }
 }

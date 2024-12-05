@@ -122,13 +122,7 @@ HRIS - PORTOFOLIO
                     </div>
                     <div class="col-md-12 col-sticky">
                         <div class="section-project-img">
-                            <div><img src="{{ asset('assets/img/Project/HRD/hrd-1.png') }}" class="resmood-1">
-                            </div>
-                            <div><img src="{{ asset('assets/img/Project/HRD/hrd-2.png') }}" class="resmood-1">
-                            </div>
-                            <div><img src="{{ asset('assets/img/Project/HRD/hrd-3.png') }}" class="resmood-1">
-                            </div>
-                            <div><img src="{{ asset('assets/img/Project/HRD/hrd-4.png') }}" class="resmood-1">
+                            <div><img src="{{ asset('assets/img/Project/HRD/hris.png') }}" class="resmood-1">
                             </div>
                         </div>
                     </div>

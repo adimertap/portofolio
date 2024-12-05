@@ -33,6 +33,8 @@ Route::namespace('Project')
             Route::get('/ic-education', [ProjectBootcamp::class, 'ic'])->name('ic');
             Route::get('/inventory/kpp', [ProjectBootcamp::class, 'inventoryKPP'])->name('inventory-kpp');
             Route::get('/sewa', [ProjectBootcamp::class, 'sewa'])->name('sewa');
+            Route::get('/tobacco', [ProjectBootcamp::class, 'tobacco'])->name('tobacco');
+
 
 
 

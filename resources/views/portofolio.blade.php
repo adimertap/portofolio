@@ -382,6 +382,18 @@
                                 <div class=" card-heading">
                                     <img alt="development" src="{{ asset('assets/img/sparkle-black2.png') }}" width="25"
                                         height="25">
+                                    <span>Tobacco Export Management System</span>
+                                </div>
+                                <p>
+                                    Tobacco Export Management System is a web application designed for efficient tobacco export operations, featuring an admin dashboard, inventory management, marketing tools, and financial tracking. With secure authentication and real-time data access, it streamlines workflows and enhances business decision-making.
+                                </p>
+                                <a href="{{ route('tobacco') }}">Click for Detail</a>
+                                <i class="details text-center">Click to See Detail</i>
+                            </div>
+                            <div class="card">
+                                <div class=" card-heading">
+                                    <img alt="development" src="{{ asset('assets/img/sparkle-black2.png') }}" width="25"
+                                        height="25">
                                     <span>Fun Project Movie Apps</span>
                                 </div>
                                 <p>This application is a simple application to <b>watch movies</b> like Netflix or

@@ -83,17 +83,7 @@ Bootcamp - PORTOFOLIO
                     </div>
                     <div class="col-md-12 col-sticky">
                         <div class="section-project-img">
-                            <div><img src="{{ asset('assets/img/Project/bootcamp-destkop-1.png') }}" class="resmood-1">
-                            </div>
-                            <div><img src="{{ asset('assets/img/Project/bootcamp-destkop-2.png') }}" class="resmood-1">
-                            </div>
-                            <div><img src="{{ asset('assets/img/Project/bootcamp-destkop-3.png') }}" class="resmood-1">
-                            </div>
-                            <div><img src="{{ asset('assets/img/Project/bootcamp-destkop-4.png') }}" class="resmood-1">
-                            </div>
-                            <div><img src="{{ asset('assets/img/Project/bootcamp-destkop-6.png') }}" class="resmood-1">
-                            </div>
-                            <div><img src="{{ asset('assets/img/Project/bootcamp-destkop-5.png') }}" class="resmood-1">
+                            <div><img src="{{ asset('assets/img/Project/bootcamp/bootcamps.png') }}" class="resmood-1">
                             </div>
                         </div>
                     </div>

@@ -122,16 +122,7 @@ Payroll Management - PORTOFOLIO
                     </div>
                     <div class="col-md-12 col-sticky">
                         <div class="section-project-img">
-                            <div><img src="{{ asset('assets/img/Project/Payroll/payroll-1-big.png') }}"
-                                    class="resmood-1">
-                            </div>
-                            <div><img src="{{ asset('assets/img/Project/Payroll/payroll-2-big.png') }}"
-                                    class="resmood-1">
-                            </div>
-                            <div><img src="{{ asset('assets/img/Project/Payroll/payroll-3-big.png') }}"
-                                    class="resmood-1">
-                            </div>
-                            <div><img src="{{ asset('assets/img/Project/Payroll/payroll-4-big.png') }}"
+                            <div><img src="{{ asset('assets/img/Project/Payroll/pajak.png') }}"
                                     class="resmood-1">
                             </div>
                         </div>

@@ -114,11 +114,11 @@ E-Bengkel - PORTOFOLIO
                 {{-- CENTER THIS ON BELOW --}}
                 <div class="col-sticky d-flex justify-content-center" style="width: 100%;">
                     <div class="section-project-img">
-                        <div><img src="{{ asset('assets/img/Project/Bengkel/SSO.png') }}" class="resmood-1"></div>
-                        <div><img src="{{ asset('assets/img/Project/Bengkel/Inv.png') }}" class="resmood-1"></div>
+                        <div><img src="{{ asset('assets/img/Project/Bengkel/bengkel.png') }}" class="resmood-1"></div>
+                        {{-- <div><img src="{{ asset('assets/img/Project/Bengkel/Inv.png') }}" class="resmood-1"></div>
                         <div><img src="{{ asset('assets/img/Project/Bengkel/Kepeg.png') }}" class="resmood-1"></div>
                         <div><img src="{{ asset('assets/img/Project/Bengkel/Payroll.png') }}" class="resmood-1"></div>
-                        <div><img src="{{ asset('assets/img/Project/Bengkel/Acc.png') }}" class="resmood-1"></div>
+                        <div><img src="{{ asset('assets/img/Project/Bengkel/Acc.png') }}" class="resmood-1"></div> --}}
                     </div>
                 </div>
 
